@@ -2,11 +2,11 @@
 
 ########################################
 
-Assignment for AI4PH - Notebooks and Versioning course (Nov 2023)
+Assignment for AI4PH - Notebooks and Versioning course (Nov 2023).
 
-By Thierry Gagné
+By Thierry Gagné.
 
-Last update : November 17th, 2023
+Last update : November 17th, 2023.
 
 ########################################
 
