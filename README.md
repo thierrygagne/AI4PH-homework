@@ -1,9 +1,13 @@
 # AI4PH-homework
 
 ########################################
+
 Assignment for AI4PH - Notebooks and Versioning course (Nov 2023)
+
 By Thierry Gagné
+
 Last update : November 17th, 2023
+
 ########################################
 
 **Goal:** *The goal of the assignment is to practice some of the tools and best practices you have learnt last week and this week.*
